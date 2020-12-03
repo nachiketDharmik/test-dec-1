@@ -1,0 +1,4 @@
+npm start
+
+cmd truffle compile
+cmd truffle migrate --network ropsten       (This will send our contract to blockchain?
